@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/TankSolution/TankSolution/Content/Background.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/TankSolution/TankSolution/Content/Buildings_Level0.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/TankSolution/TankSolution/Content/Buildings_Level1.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/TankSolution/TankSolution/Content/Buildings_Level2.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/TankSolution/TankSolution/Content/Button_Exit.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/TankSolution/TankSolution/Content/Button_Play.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/TankSolution/TankSolution/Content/ExplosionAnimation.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/TankSolution/TankSolution/Content/Pickup_HealthBox.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/TankSolution/TankSolution/Content/Pickup_InstaReload.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/TankSolution/TankSolution/Content/Pickup_Missile.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/TankSolution/TankSolution/Content/Pickup_MultiShot.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/TankSolution/TankSolution/Content/Pickup_SpeedBoost.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/TankSolution/TankSolution/Content/SFX_Explosion.mp3</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/TankSolution/TankSolution/Content/SFX_Gunshot.mp3</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/TankSolution/TankSolution/Content/SFX_Tankhit.mp3</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/TankSolution/TankSolution/Content/SFX_Wallbang.mp3</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/TankSolution/TankSolution/Content/Shell_DefaultShell.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/TankSolution/TankSolution/Content/Shell_Missile.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/TankSolution/TankSolution/Content/Shell_MultiShotPellet.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/TankSolution/TankSolution/Content/Tank1.png</File>
+    <File>C:/Users/zacat/OneDrive - Cardinal Newman College/Comp Sci/Royle, Zac/TankSolution/TankSolution/Content/Tank2.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

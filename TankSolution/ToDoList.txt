@@ -1,0 +1,25 @@
+
+---------- TO DO ----------
+
+
+Sound for tank driving
+Sound for gun reloading / gun empty
+Sound for picking up pickups
+
+Pixel Based Collision?
+
+Pickup functionality - Missiles splash damage
+Pickups respawn after time delay
+Pickups turn into a list so can have multiple active?
+
+Multishot sounds not ear-rapeing
+
+UI to see active pickups / health remaining / win losses
+
+Startup screen / home menu
+Pause Screen
+Level Select?
+
+Controller functionality?
+
+Leaderboard system - Arcade machine style
